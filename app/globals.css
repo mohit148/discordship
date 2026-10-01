@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  background-color: #faf7f2;
+  color: #2b2a28;
+}
+
+* {
+  border-color: #e8e3d9;
+}
+
+::selection {
+  background-color: #e7e2f7;
+}
+
+:focus-visible {
+  outline: 2px solid #8c7cd6;
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+/* Compact, readable table rows */
+.table-row-hover:hover {
+  background-color: #fbf9f5;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    transition-duration: 0.001ms !important;
+    animation-duration: 0.001ms !important;
+  }
+}
