@@ -1,0 +1,267 @@
+{
+  "backgrounds": [
+    {
+      "id": "bg-dusk",
+      "name": "Dusk",
+      "imageData": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNjAwIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCBzbGljZSI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeTE9IjAiIHgyPSIwIiB5Mj0iMSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjNWI0YjhhIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjYzlhN2M3Ii8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3Qgd2lkdGg9IjgwMCIgaGVpZ2h0PSI2MDAiIGZpbGw9InVybCgjZykiLz48Y2lyY2xlIGN4PSI2MDAiIGN5PSIxNzAiIHI9IjcwIiBmaWxsPSIjZjRkNmNjIiBvcGFjaXR5PSIwLjU1Ii8+PHBhdGggZD0iTTAgNDMwIFEyMDAgMzUwIDQwMCA0MjAgVDgwMCA0MDAgVjYwMCBIMFoiIGZpbGw9IiNmNGQ2Y2MiIG9wYWNpdHk9IjAuMjUiLz48cGF0aCBkPSJNMCA1MDAgUTI1MCA0MzAgNTAwIDQ5MCBUODAwIDQ3MCBWNjAwIEgwWiIgZmlsbD0iI2Y0ZDZjYyIgb3BhY2l0eT0iMC4zNSIvPjwvc3ZnPg==",
+      "createdAt": "2026-10-10T14:31:47.409Z"
+    },
+    {
+      "id": "bg-meadow",
+      "name": "Meadow",
+      "imageData": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNjAwIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCBzbGljZSI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeTE9IjAiIHgyPSIwIiB5Mj0iMSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjNGQ3YzZmIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjYjlkM2IwIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3Qgd2lkdGg9IjgwMCIgaGVpZ2h0PSI2MDAiIGZpbGw9InVybCgjZykiLz48Y2lyY2xlIGN4PSI2MDAiIGN5PSIxNzAiIHI9IjcwIiBmaWxsPSIjZjNlY2M0IiBvcGFjaXR5PSIwLjU1Ii8+PHBhdGggZD0iTTAgNDMwIFEyMDAgMzUwIDQwMCA0MjAgVDgwMCA0MDAgVjYwMCBIMFoiIGZpbGw9IiNmM2VjYzQiIG9wYWNpdHk9IjAuMjUiLz48cGF0aCBkPSJNMCA1MDAgUTI1MCA0MzAgNTAwIDQ5MCBUODAwIDQ3MCBWNjAwIEgwWiIgZmlsbD0iI2YzZWNjNCIgb3BhY2l0eT0iMC4zNSIvPjwvc3ZnPg==",
+      "createdAt": "2026-10-10T14:31:47.409Z"
+    },
+    {
+      "id": "bg-morning",
+      "name": "Morning",
+      "imageData": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNjAwIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCBzbGljZSI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeTE9IjAiIHgyPSIwIiB5Mj0iMSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjZTdhOThmIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjZjZkY2MzIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3Qgd2lkdGg9IjgwMCIgaGVpZ2h0PSI2MDAiIGZpbGw9InVybCgjZykiLz48Y2lyY2xlIGN4PSI2MDAiIGN5PSIxNzAiIHI9IjcwIiBmaWxsPSIjZmZmNGRjIiBvcGFjaXR5PSIwLjU1Ii8+PHBhdGggZD0iTTAgNDMwIFEyMDAgMzUwIDQwMCA0MjAgVDgwMCA0MDAgVjYwMCBIMFoiIGZpbGw9IiNmZmY0ZGMiIG9wYWNpdHk9IjAuMjUiLz48cGF0aCBkPSJNMCA1MDAgUTI1MCA0MzAgNTAwIDQ5MCBUODAwIDQ3MCBWNjAwIEgwWiIgZmlsbD0iI2ZmZjRkYyIgb3BhY2l0eT0iMC4zNSIvPjwvc3ZnPg==",
+      "createdAt": "2026-10-10T14:31:47.409Z"
+    }
+  ],
+  "avatars": {},
+  "ships": [
+    {
+      "id": "133",
+      "number": 133,
+      "userA": {
+        "id": "1",
+        "username": "user_a",
+        "displayName": "Alex",
+        "avatarUrl": "https://api.dicebear.com/7.x/thumbs/svg?seed=a-cozy",
+        "customAvatarUrl": null,
+        "acceptsRequests": true,
+        "role": "visitor"
+      },
+      "userB": {
+        "id": "2",
+        "username": "user_b",
+        "displayName": "Bao",
+        "avatarUrl": "https://api.dicebear.com/7.x/thumbs/svg?seed=b-cozy",
+        "customAvatarUrl": null,
+        "acceptsRequests": true,
+        "role": "visitor"
+      },
+      "status": "confirmed",
+      "isTwoAuth": true,
+      "customText": "just some friends :)",
+      "customTextPending": null,
+      "customTextProposedBy": null,
+      "background": {
+        "id": "bg-dusk",
+        "name": "Dusk",
+        "imageUrl": "/api/backgrounds/bg-dusk/image",
+        "createdAt": "2026-10-10T14:31:47.409Z"
+      },
+      "backgroundPending": null,
+      "backgroundProposedBy": null,
+      "createdAt": "2026-08-07T14:31:47.409Z",
+      "updatedAt": "2026-10-08T14:31:47.409Z",
+      "updatedBy": {
+        "id": "1",
+        "username": "user_a",
+        "displayName": "Alex",
+        "avatarUrl": "https://api.dicebear.com/7.x/thumbs/svg?seed=a-cozy",
+        "customAvatarUrl": null,
+        "acceptsRequests": true,
+        "role": "visitor"
+      },
+      "createdBy": null,
+      "endedAt": null
+    },
+    {
+      "id": "129",
+      "number": 129,
+      "userA": {
+        "id": "9",
+        "username": "user_i",
+        "displayName": "Ivy",
+        "avatarUrl": "https://api.dicebear.com/7.x/thumbs/svg?seed=i-cozy",
+        "customAvatarUrl": null,
+        "acceptsRequests": true,
+        "role": "visitor"
+      },
+      "userB": {
+        "id": "10",
+        "username": "user_j",
+        "displayName": null,
+        "avatarUrl": "https://api.dicebear.com/7.x/thumbs/svg?seed=j-cozy",
+        "customAvatarUrl": null,
+        "acceptsRequests": true,
+        "role": "visitor"
+      },
+      "status": "pending",
+      "isTwoAuth": false,
+      "customText": null,
+      "customTextPending": null,
+      "customTextProposedBy": null,
+      "background": null,
+      "backgroundPending": null,
+      "backgroundProposedBy": null,
+      "createdAt": "2026-10-07T14:31:47.409Z",
+      "updatedAt": "2026-10-07T14:31:47.409Z",
+      "updatedBy": null,
+      "createdBy": null,
+      "endedAt": null
+    }
+  ],
+  "claimCodes": {},
+  "discordTokens": {},
+  "accountDeletions": [],
+  "ruleSections": [],
+  "navItems": [
+    {
+      "key": "ships",
+      "label": "Ships",
+      "href": "/ships",
+      "visible": true,
+      "position": 0
+    },
+    {
+      "key": "cards",
+      "label": "Cards",
+      "href": "/cards",
+      "visible": true,
+      "position": 1
+    },
+    {
+      "key": "requests",
+      "label": "Requests",
+      "href": "/requests",
+      "visible": true,
+      "position": 2
+    },
+    {
+      "key": "stats",
+      "label": "Stats",
+      "href": "/stats",
+      "visible": true,
+      "position": 3
+    },
+    {
+      "key": "about",
+      "label": "About",
+      "href": "/about",
+      "visible": true,
+      "position": 4
+    },
+    {
+      "key": "rules",
+      "label": "Rules",
+      "href": "/rules",
+      "visible": true,
+      "position": 5
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "user_a",
+      "displayName": "Alex",
+      "avatarUrl": "https://api.dicebear.com/7.x/thumbs/svg?seed=a-cozy",
+      "customAvatarUrl": null,
+      "acceptsRequests": true,
+      "role": "visitor"
+    },
+    {
+      "id": "2",
+      "username": "user_b",
+      "displayName": "Bao",
+      "avatarUrl": "https://api.dicebear.com/7.x/thumbs/svg?seed=b-cozy",
+      "customAvatarUrl": null,
+      "acceptsRequests": true,
+      "role": "visitor"
+    },
+    {
+      "id": "9",
+      "username": "user_i",
+      "displayName": "Ivy",
+      "avatarUrl": "https://api.dicebear.com/7.x/thumbs/svg?seed=i-cozy",
+      "customAvatarUrl": null,
+      "acceptsRequests": true,
+      "role": "visitor"
+    },
+    {
+      "id": "10",
+      "username": "user_j",
+      "displayName": null,
+      "avatarUrl": "https://api.dicebear.com/7.x/thumbs/svg?seed=j-cozy",
+      "customAvatarUrl": null,
+      "acceptsRequests": true,
+      "role": "visitor"
+    },
+    {
+      "id": "999",
+      "username": "mod_admin",
+      "displayName": "Mod",
+      "avatarUrl": "https://api.dicebear.com/7.x/thumbs/svg?seed=admin-cozy",
+      "customAvatarUrl": null,
+      "isAdmin": true,
+      "role": "admin"
+    }
+  ],
+  "requests": [
+    {
+      "id": "r1",
+      "fromUser": {
+        "id": "2",
+        "username": "user_b",
+        "displayName": "Bao",
+        "avatarUrl": "https://api.dicebear.com/7.x/thumbs/svg?seed=b-cozy",
+        "customAvatarUrl": null,
+        "acceptsRequests": true,
+        "role": "visitor"
+      },
+      "toUser": {
+        "id": "9",
+        "username": "user_i",
+        "displayName": "Ivy",
+        "avatarUrl": "https://api.dicebear.com/7.x/thumbs/svg?seed=i-cozy",
+        "customAvatarUrl": null,
+        "acceptsRequests": true,
+        "role": "visitor"
+      },
+      "status": "pending",
+      "createdAt": "2026-10-08T14:31:47.409Z",
+      "respondedAt": null
+    }
+  ],
+  "reports": [
+    {
+      "id": "rep1",
+      "shipId": "133",
+      "reportedUser": null,
+      "reportedBy": {
+        "id": "10",
+        "username": "user_j",
+        "displayName": null,
+        "avatarUrl": "https://api.dicebear.com/7.x/thumbs/svg?seed=j-cozy",
+        "customAvatarUrl": null,
+        "acceptsRequests": true,
+        "role": "visitor"
+      },
+      "reason": "Sample report — just an example of what one looks like.",
+      "status": "open",
+      "createdAt": "2026-10-09T14:31:47.409Z"
+    }
+  ],
+  "auditLog": [
+    {
+      "id": "a1",
+      "actor": {
+        "id": "999",
+        "username": "mod_admin",
+        "displayName": "Mod",
+        "avatarUrl": "https://api.dicebear.com/7.x/thumbs/svg?seed=admin-cozy",
+        "customAvatarUrl": null,
+        "isAdmin": true,
+        "role": "admin"
+      },
+      "action": "created admin ship",
+      "targetType": "ship",
+      "targetId": "129",
+      "detail": "#129 created, awaiting confirmation from both people",
+      "createdAt": "2026-10-07T14:31:47.409Z"
+    }
+  ]
+}
